@@ -420,26 +420,26 @@ body{
         width:800px;
         height:450px;
         margin: 0 auto;
-        padding: 20px 30px 0px 60px;
+        padding: 10px 30px 0px 30px;
   
     }
     .caption{
         width:900px;
         height:70px;
-        margin:0px;
+        margin:0px 0px 0px 60px;
     }
 
     .log_icon1{
         width:65px;
         height:65px;
         float:right;
-
+        margin-right: 30px;
     }
     .log_icon2{
         width:65px;
         height:65px;
         float:right;
-
+        margin-right: 30px;
     }
     .font{
         width:350px;
