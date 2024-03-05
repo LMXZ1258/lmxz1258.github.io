@@ -67,7 +67,7 @@ const change_h = () => {
             break;
         case 12:hm.innerHTML="<p>临渊羡鱼，不如退而结网</p>";
             break;
-        case 13:hm.innerHTML="<p>从零开始的异世界生活</p>";
+        case 13:hm.innerHTML="<p><<从零开始的异世界生活>></p>";
             break;
         case 14:hm.innerHTML="<p><<悲惨世界>></p>";
             break;
